@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Fonts">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fonts/vintage.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fonts/headliner_no_45.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Fonts/christmas_wish_calligraphy.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

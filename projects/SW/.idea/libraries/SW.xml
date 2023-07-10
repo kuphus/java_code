@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="SW">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/turfwars_buildingtiles01.zip!/" />
+      <root url="jar://$PROJECT_DIR$/spaceshooter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/uipack_fixed.zip!/" />
+      <root url="jar://$PROJECT_DIR$/kenney_tankspack.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tappyplane.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lpc-colonial.zip!/" />
+      <root url="jar://$PROJECT_DIR$/building_pack.zip!/" />
+      <root url="jar://$PROJECT_DIR$/kenney_foliagepack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
